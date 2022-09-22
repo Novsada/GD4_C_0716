@@ -29,6 +29,7 @@
                         '<script>
                         alert("Login Success"); window.location = "../page/dashboardPage.php"
                         </script>';
+                        
                 }else {
                     echo
                     '<script>

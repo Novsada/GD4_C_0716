@@ -33,7 +33,6 @@ solid #D40013; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 
             <button type="submit" class="btn btn-danger" name="tambahMovie">Tambah Movie</button>
         </div>
     </form>
-
 </div>
 </aside>
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js"

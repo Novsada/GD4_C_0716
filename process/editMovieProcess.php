@@ -27,4 +27,5 @@ if(isset($_POST['tambahMovie'])){
     window.history.back()
     </script>';
 }
+
 ?>

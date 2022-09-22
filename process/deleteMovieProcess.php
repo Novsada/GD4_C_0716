@@ -22,4 +22,5 @@ if(isset($_GET['id'])){
     window.history.back()
     </script>';
 }
+
 ?>

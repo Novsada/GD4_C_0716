@@ -1,9 +1,7 @@
 <?php
 
     if(isset($_POST['register'])){
-
         include('../db.php');
-
         $email = $_POST['email'];
         $password = password_hash($_POST['password'], PASSWORD_DEFAULT);
         $name = $_POST['name'];

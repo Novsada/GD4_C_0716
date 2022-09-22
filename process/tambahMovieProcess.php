@@ -1,9 +1,7 @@
 <?php
 
     if(isset($_POST['tambahMovie'])){
-
         include('../db.php');
-
         $genre = $_POST['genre'];
         $name = $_POST['name'];
         $realese = $_POST['realese'];

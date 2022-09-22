@@ -16,6 +16,7 @@ solid #D40013;  boxshadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 
                     and make up the bulk of the card's content.</p>
                 <a href="#" class="btn btn-primary">Go somewhere</a>
             </div>
+            
         </div>
         <div class="card mx-4" style="width: 18rem;">
             <img class="card-img-top" src="https://pbs.twimg.com/media/FVJJyDpVEAAOf2F?format=jpg&name=medium"

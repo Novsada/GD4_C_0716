@@ -11,7 +11,6 @@ EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="a
         <link href="../style.css" rel="stylesheet">
         <title>Register Page</title>
     </head>
-
     <body>
         <nav class="navbar navbar-dark bg-dark fixed-top">
             <div class="container">

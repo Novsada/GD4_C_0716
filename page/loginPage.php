@@ -9,7 +9,6 @@
         <link href="../style.css" rel="stylesheet">
         <title>Login Page</title>
     </head>
-
     <body>
         <nav class="navbar navbar-dark bg-dark fixed-top">
             <div class="container">
