@@ -1,6 +1,6 @@
 <?php
  session_start();
-if (!$_SESSION['isLogin']) {
+ if (!$_SESSION['isLogin']) {
 header("location: ../page/loginPage.php");
 }else {
 include('../db.php');
@@ -19,6 +19,7 @@ rel="stylesheet" integrity="sha384-
 EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" 
 crossorigin="anonymous">
 <link rel="stylesheet" href="./style.css">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.0/css/all.min.css">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -31,7 +32,7 @@ rel="stylesheet">
 font-family: "Poppins";
 }
 .side-bar {
-width: 260px;
+    width: 260px;
 background-color: #D40013;
 min-height: 100vh;
 }
@@ -42,17 +43,17 @@ text-decoration: none;
 color: white;
 }
 .menu i {
-padding-left: 20px;
+    padding-left: 20px;
 }
 .menu .content-menu {
-padding: 9px 7px;
+    padding: 9px 7px;
 }
 .isActive {
-background-color: #071853 !important;
-border-right: 8px solid #010E2F;
+    background-color: #071853 !important;
+    border-right: 8px solid #010E2F;
 }
 i{
-color:white;
+    color:white;
 }
 </style>
 </head>
